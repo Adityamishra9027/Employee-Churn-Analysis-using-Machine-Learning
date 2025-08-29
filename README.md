@@ -9,12 +9,12 @@
 This project analyzes a decade's worth of HR data from **Salifort Motors** to understand *why* valuable employees leave. The final result is not just a predictive model, but a set of clear, actionable recommendations for the HR department to improve employee satisfaction and reduce turnover.
 
 
-## 📋 Project Breakdown
+## Project Breakdown
 1.  [The Business Problem](#-the-business-problem)
 2.  [Data Cleaning & Analysis (EDA)](#-data-cleaning--analysis-eda)
 3.  [Predictive Model & Performance](#-predictive-model--performance)
 4.  [Key Findings & Recommendations](#-key-findings--recommendations)
-5.  [How to Use This Project](#-how-to-use-this-project)
+
 
 ---
 
