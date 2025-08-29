@@ -69,5 +69,7 @@ The model confirmed that employee attrition isn’t random. It’s driven by a f
     * **Recommendation:** Introduce targeted mentorship and career development programs for this group to show them a clear future within the company.
 
 ---
+<img width="802" height="662" alt="Screenshot 2025-08-30 at 4 49 27 AM" src="https://github.com/user-attachments/assets/31d7a792-04d6-4463-8527-e1b4771236d3" />
+<img width="879" height="502" alt="Screenshot 2025-08-30 at 4 49 09 AM" src="https://github.com/user-attachments/assets/d6e6cbfa-71b1-416f-a946-f4127e68c638" />
 
 The dataset used is `HR_dataset.csv`. All required libraries are listed in the notebook.
